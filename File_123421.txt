@@ -1,0 +1,1 @@
+Native Terra tokens (TerraUSD, Luna)  and  ANC  are interchain tokens -- they are available on the Terra blockchain and the Ethereum blockchain, also being available  on the  Binance Smart Chain (BSC) in the case for  Native  Terra  tokens.

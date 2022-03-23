@@ -1,0 +1,1 @@
+The  BORROW page can be used to borrow Terra stablecoins from Anchor. The protocol requires users to provide bAsset tokens as collateral  before making a loan. To create  bAssets from your  staking tokens, see  the BOND page  guide.
